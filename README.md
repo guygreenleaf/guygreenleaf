@@ -9,3 +9,24 @@
 ### A little about me...  <img src="https://media.giphy.com/media/8A76LJJUJUZ92iblNx/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu/)** pursuing a bachelors in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I'm currently focused on front end and UI work and absolutely love figuring out how to implement interesting designs in web pages and web apps. <br/><br/>
 
+## ⚡️ A Few Quick Facts
+
+- 🌱 I’m currently teaching myself React + JSX + SASS <img src="https://www.pngfind.com/pngs/m/122-1222517_react-hexagon-react-png-transparent-png.png" width="25"> 
+
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+    - 🕸️ Anything to do with the web!
+    - 🛠 DIY Raspberry Pi Projects
+- 📺 I stream and create tech based content on Twitch and Youtube
+- 👯 I’m looking for Frontend work!
+- 💬 Ask me about Python, Java, C++ or Raspi!
+
+### 🚀 Quick Stats
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=guygreenleaf&show_icons=true&line_height=21" alt="guygreenleaf's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guygreenleaf&theme=default&line_height=27&layout=compact" />
+</p>
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=guygreenleaf)
