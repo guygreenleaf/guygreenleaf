@@ -16,6 +16,7 @@ I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
     - 🕸️ Anything to do with the web!
+    - 👓 
     - 🛠 DIY Raspberry Pi Projects
 - 📺 I stream and create tech based content on Twitch and Youtube
 - 👯 I’m looking for Frontend work!
