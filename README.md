@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:guygreenleaf@icloud.com)
 
 ### A little about me...  <img src="https://media.giphy.com/media/8A76LJJUJUZ92iblNx/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu/)** pursuing a bachelors in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I'm currently focused on front end and UI work and absolutely love figuring out how to implement interesting designs in web pages and web apps. <br/><br/>
+I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu/)** pursuing a bachelors in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I'm currently focused on front-end and UI work and absolutely love figuring out how to implement interesting designs in web pages and web apps. <br/><br/>
 
 ## ⚡️ A Few Quick Facts
 
@@ -16,7 +16,7 @@ I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
     - 🕸️ Anything to do with the web
-    - 👓 Frontend frameworks
+    - 👓 Front-end frameworks
     - 🛠 DIY Raspberry Pi Projects
 - 📺 I stream and create tech based content on Twitch and Youtube
 - 👯 I’m looking for Frontend work!
