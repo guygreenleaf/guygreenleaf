@@ -25,7 +25,6 @@ I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu
 ### 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=guygreenleaf&show_icons=true&line_height=21&theme=tokyonight" alt="guygreenleaf's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guygreenleaf&theme=default&line_height=27&layout=compac&theme=tokyonightt" />
 </p>
 
 
