@@ -18,7 +18,6 @@ I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu
     - 🕸️ Anything to do with the web
     - 👓 Front-end frameworks
     - 🛠 DIY Raspberry Pi Projects
-- 📺 I stream and create tech based content on Twitch and Youtube
 - 👯 I’m looking for Frontend work!
 - 💬 Ask me about Python, Java, C++, ARM Assembly, or Raspi!
 
