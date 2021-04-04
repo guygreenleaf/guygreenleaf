@@ -2,7 +2,7 @@
 </h1>
 
 #### 📬 Find me at
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](www.linkedin.com/in/guy-greenleaf)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/guy-greenleaf/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:yaweh23@gmail.com)
 
 ### A little about me...  <img src="https://media.giphy.com/media/8A76LJJUJUZ92iblNx/giphy.gif" width="50"> 
@@ -17,7 +17,7 @@ I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu
     - 🕸️ Anything to do with the web
     - 👓 Front-end frameworks
     - 🛠 DIY Raspberry Pi Projects
-- 👯 I’m looking for Frontend work!
+- 👯 I’m looking for work!
 - 💬 Ask me about Python, Java, C++, ARM Assembly, or Raspi!
 
 ### 🚀 Quick Stats
