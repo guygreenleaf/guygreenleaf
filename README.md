@@ -13,12 +13,12 @@ I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu
 - 🌱 I’m currently teaching myself the MERN stack in my free time away from school <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="35"> 
 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on and learning
     - 🕸️ Anything to do with the web
-    - 👓 Front-end frameworks
+    - 👓 Interesting C++ projects
     - 🛠 DIY Raspberry Pi Projects
 - 👯 I’m looking for work!
-- 💬 Ask me about Python, Java, C++, ARM Assembly, or Raspi!
+- 💬 Ask me about Python, C++, ARM Assembly, mySQL, and JavaScript!
 
 ### 🚀 Quick Stats
 <p align="center">
