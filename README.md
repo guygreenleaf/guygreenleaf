@@ -17,7 +17,6 @@ I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu
     - 🕸️ Anything to do with the web
     - 👓 Interesting C++ projects
     - 🛠 DIY Raspberry Pi Projects
-- 👯 I’m looking for work!
 - 💬 Ask me about Python, C++, ARM Assembly, mySQL, and JavaScript!
 
 ### 🚀 Quick Stats
