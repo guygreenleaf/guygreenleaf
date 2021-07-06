@@ -10,7 +10,7 @@ I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu
 
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I’m currently teaching myself the MERN stack in my free time away from school <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="35"> 
+- 🌱 I’m currently teaching myself the MERN stack in my free time away from school <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="35"> and working at AMETEK as a Software Engineer Intern. 
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on and learning
