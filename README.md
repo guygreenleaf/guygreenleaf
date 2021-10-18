@@ -14,7 +14,7 @@ I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu
     - 🛠 DIY Raspberry Pi Projects
 - 💬 Ask me about Python, C++, db architecture, and JavaScript!
 
-### 🚀 Quick Stats
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=guygreenleaf&show_icons=true&line_height=21&theme=tokyonight" alt="guygreenleaf's Github Stats" />
 </p>
