@@ -8,16 +8,11 @@
 ### A little about me...  <img src="https://media.giphy.com/media/8A76LJJUJUZ92iblNx/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu/)** pursuing a bachelors in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I'm currently focused on front-end and UI work and absolutely love figuring out how to implement interesting designs in web pages and web apps. <br/><br/>
 
-## ⚡️ A Few Quick Facts
-
-- 🌱 I’m currently teaching myself the MERN stack in my free time away from school <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="35"> and working at AMETEK as a Software Engineer. 
-
-
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on and learning
     - 🕸️ Anything to do with the web
     - 👓 Interesting C++ projects
     - 🛠 DIY Raspberry Pi Projects
-- 💬 Ask me about Python, C++, ARM Assembly, mySQL, and JavaScript!
+- 💬 Ask me about Python, C++, db architecture, and JavaScript!
 
 ### 🚀 Quick Stats
 <p align="center">
