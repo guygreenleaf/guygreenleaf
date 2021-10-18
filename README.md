@@ -8,11 +8,11 @@
 ### A little about me...  <img src="https://media.giphy.com/media/8A76LJJUJUZ92iblNx/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@Sonoma State University](https://www.sonoma.edu/)** pursuing a bachelors in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I'm currently focused on front-end and UI work and absolutely love figuring out how to implement interesting designs in web pages and web apps. <br/><br/>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on and learning
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on and learning
     - 🕸️ Anything to do with the web
     - 👓 Interesting C++ projects
     - 🛠 DIY Raspberry Pi Projects
-💬 Ask me about Python, C++, db architecture, and JavaScript!
+- 💬 Ask me about Python, C++, db architecture, and JavaScript!
 
 ### 🚀 Quick Stats
 <p align="center">
