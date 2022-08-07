@@ -12,7 +12,7 @@ I'm a Software Engineer, **🎓 [Sonoma State University](https://www.sonoma.edu
     - 🕸️ Anything to do with the web
     - 👓 Interesting C++ projects
     - 🛠 DIY Raspberry Pi Projects
-- 💬 Ask me about Python, C++, db architecture, and JavaScript!
+- 💬 Ask me about C#, SQL Server, and Next!
 
 
 <p align="center">
