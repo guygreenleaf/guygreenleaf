@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:yaweh23@gmail.com)
 
 
-Software Engineer & [Sonoma State University](https://www.sonoma.edu/)** alumni<br/><br/>
+Software Engineer & [Sonoma State University](https://www.sonoma.edu/) alumni.<br/><br/>
 
 
 <p align="center">
